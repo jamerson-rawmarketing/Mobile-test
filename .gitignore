@@ -1,8 +1,5 @@
 .env
 themes/
 plugins/
-wordpress/wp-content/database/
-wordpress/wp-content/uploads/
-wordpress/wp-config.php
-wordpress/wp-debug.log
+wordpress/
 wp-cli.phar
